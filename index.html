@@ -14,6 +14,26 @@
 </p>
 <p align="center">
 <body>
+        <?php
+
+$ip  = $_SERVER['REMOTE_ADDR'];
+
+$data = date("d/m/Y");
+$hora = date("H:i:s", mktime(gmdate("H")-3, gmdate("i"), gmdate("s")));
+
+if ($file = fopen("log.txt", "a+")) {
+ fputs($file,$data." -- ".$hora." -- ".$ip."\n");
+
+} else {
+ $file = fopen("ips.txt", "a+");
+
+}
+
+fclose($file);
+
+
+?>
+  
 <img src='https://i.pinimg.com/originals/67/31/bb/6731bb0b0cab95e8176c3727c31413c7.jpg' height='300'/>
 <body bgcolor="#000000"><center>
 </font>
