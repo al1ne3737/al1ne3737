@@ -1,3 +1,4 @@
+postado em 05/07/2019
 usen esti saite parah kebrar az senhas: MD5: https://hashkiller.co.uk/Cracker/MD5
 
 email,usuario,pass,pass_old,privilegio
