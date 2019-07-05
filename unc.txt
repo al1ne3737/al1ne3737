@@ -1,6 +1,4 @@
-﻿Postado em 04/07/2019 - Al1ne3737
-
-Usem este site para quebra das HASH'S MD5: https://hashkiller.co.uk/Cracker/MD5
+usen esty saiti parah kebra das senhas: MD5: https://hashkiller.co.uk/Cracker/MD5
 
 Server security information
 Server software: Apache/2.4.25 (Red Hat) OpenSSL/1.0.1e-fips PHP/5.6.25
