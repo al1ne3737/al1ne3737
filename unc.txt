@@ -1,0 +1,114 @@
+﻿Postado em 04/07/2019 - Al1ne3737
+
+Usem este site para quebra das HASH'S MD5: https://hashkiller.co.uk/Cracker/MD5
+
+Server security information
+Server software: Apache/2.4.25 (Red Hat) OpenSSL/1.0.1e-fips PHP/5.6.25
+Disabled PHP Functions: none
+cURL support: enabled
+Supported databases: MySql (mysqlnd 5.0.11-dev - 20120503 - $Id: 76b08b24596e12d4553bd41fc93cccd5bac2fe7a $)
+
+Readable /etc/passwd: yes [view]
+Readable /etc/shadow: no
+OS version: Linux version 2.6.32-642.13.1.el6.x86_64 (mockbuild@c1bm.rdu2.centos.org) (gcc version 4.4.7 20120313 (Red Hat 4.4.7-17) (GCC) ) #1 SMP Wed Jan 11 20:56:24 UTC 2017
+Distr name:
+CentOS release 6.8 (Final)
+Kernel \r on an \m
+
+Userful: gcc, cc, ld, make, php, perl, python, tar, gzip, bzip2
+Danger: iptables
+Downloaders: wget, curl
+
+HDD space:
+Filesystem            Size  Used Avail Use% Mounted on
+/dev/xvda1            197G   57G  131G  31% /
+tmpfs                 7.3G     0  7.3G   0% /dev/shm
+172.31.2.14:/var/www/html/_lib/file/doc_pessoa
+                      246G  128G  106G  55% /home/pagina/www/inscricoes/_lib/file/doc_pessoa
+Hosts:
+127.0.0.1   localhost localhost.localdomain localhost4 localhost4.localdomain4
+::1         localhost localhost.localdomain localhost6 localhost6.localdomain6
+
+
+	https://www.unc.br/admin_new/
+
+Database: site_novo
+Table: seg_users
+[10 entries]
++--------------------------+------------+----------------------------------+------------+
+| email                    | login      | pswd                             | priv_admin |
++--------------------------+------------+----------------------------------+------------+
+| admin@admin.com          | admin      | a28481c19ea14d59025204628a52f263 | Y          |
+| andressa.mestrado@unc.br | andressa   | 425d791e103b6569807ee3788eaadb2f |            |
+| chimene@unc.br           | chimene    | 452dc0d3f8b1aaadbf9880760470733e |            |
+| claudineia@unc.br        | claudineia | 48bd419ef921113a702fd10d17812b2a |            |
+| cristina@unc.br          | cristina   | 425d791e103b6569807ee3788eaadb2f |            |
+| damiana.mkt@unc.br       | damiana    | 425d791e103b6569807ee3788eaadb2f |            |
+| tayna.ti@unc.br          | gti        | a28481c19ea14d59025204628a52f263 |            |
+| rosangela@unc.br         | rosangela  | 425d791e103b6569807ee3788eaadb2f |            |
+| solangesprandel@unc.br   | solange    | 425d791e103b6569807ee3788eaadb2f |            |
+| thayrine@unc.br          | thayrine   | 305d82afbef7441c2d7630759e24febb |            |
++--------------------------+------------+----------------------------------+------------+
+a28481c19ea14d59025204628a52f263 MD5 nsi@sistemas 
+425d791e103b6569807ee3788eaadb2f MD5 unc@123 
+452dc0d3f8b1aaadbf9880760470733e MD5 chi@unc 
+48bd419ef921113a702fd10d17812b2a MD5 todabela 
+305d82afbef7441c2d7630759e24febb MD5 202829 or osCommerce 20:2829
+
+
+Linux webserver 2.6.32-642.13.1.el6.x86_64 #1 SMP Wed Jan 11 20:56:24 UTC 2017 x86_64 x86_64 x86_64 GNU/Linux
+uid=48(apache) gid=48(apache) groups=48(apache),501(pagina)
+
+unc-bd.cjvcmhxqvg9v.sa-east-1.rds.amazonaws.com
+root
+37Sjsv+f&v3UG*-s
+
+
+eth0      Link encap:Ethernet  HWaddr 02:18:EF:17:1E:C5  
+          inet addr:172.31.9.3  Bcast:172.31.15.255  Mask:255.255.240.0
+          inet6 addr: fe80::18:efff:fe17:1ec5/64 Scope:Link
+          UP BROADCAST RUNNING MULTICAST  MTU:9001  Metric:1
+          RX packets:7427848252 errors:0 dropped:0 overruns:0 frame:0
+          TX packets:7836642258 errors:0 dropped:0 overruns:0 carrier:0
+          collisions:0 txqueuelen:1000 
+          RX bytes:1197427140909 (1.0 TiB)  TX bytes:16172310557762 (14.7 TiB)
+          Interrupt:145 
+
+lo        Link encap:Local Loopback  
+          inet addr:127.0.0.1  Mask:255.0.0.0
+          inet6 addr: ::1/128 Scope:Host
+          UP LOOPBACK RUNNING  MTU:65536  Metric:1
+          RX packets:641348941 errors:0 dropped:0 overruns:0 frame:0
+          TX packets:641348941 errors:0 dropped:0 overruns:0 carrier:0
+          collisions:0 txqueuelen:0 
+          RX bytes:2539633618126 (2.3 TiB)  TX bytes:2539633618126 (2.3 TiB)
+
+
+$hostname_conexao = "localhost"; 
+$database_conexao = "site_unc2014"; 
+$username_conexao = "root"; 
+$password_conexao = "pr0t3g1d0$"; 
+
+
+define('DB_NAME', 'blog_cepda'); 
+
+/** Usuário do banco de dados MySQL */
+define('DB_USER', 'uncadmin'); 
+
+/** Senha do banco de dados MySQL */
+define('DB_PASSWORD', 'SQL@dm1nTud0'); 
+
+/** nome do host do MySQL */
+define('DB_HOST', 'localhost'); 
+
+
+define('DB_NAME', 'site_unc'); 
+
+/** Usuário do banco de dados MySQL */ 
+define('DB_USER', 'root'); 
+
+/** Senha do banco de dados MySQL */ 
+define('DB_PASSWORD', 'SQL@dm1nTud0'); 
+
+/** nome do host do MySQL */ 
+define('DB_HOST', 'localhost'); 
