@@ -1,3 +1,5 @@
+postado em 05/07/2019
+
 root:x:0:0:root:/root:/bin/bash
 daemon:x:1:1:daemon:/usr/sbin:/usr/sbin/nologin
 bin:x:2:2:bin:/bin:/usr/sbin/nologin
@@ -36,7 +38,7 @@ webmasterecex:x:1004:1004:Responsavel pela atualizacao da pagina do ECEX:/var/ww
 
 
 $_SG['servidor'] = 'localhost';    // Servidor MySQL
-$_SG['usuario'] = 'ieusr';          // Usu·rio MySQL
+$_SG['usuario'] = 'ieusr';          // Usu√°rio MySQL
 $_SG['senha'] = '2010.sql.usr';                // Senha MySQL
 $_SG['banco'] = 'SiteEco';            // Banco de dados MySQL
 
