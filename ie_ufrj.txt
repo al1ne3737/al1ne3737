@@ -1,0 +1,144 @@
+root:x:0:0:root:/root:/bin/bash
+daemon:x:1:1:daemon:/usr/sbin:/usr/sbin/nologin
+bin:x:2:2:bin:/bin:/usr/sbin/nologin
+sys:x:3:3:sys:/dev:/usr/sbin/nologin
+sync:x:4:65534:sync:/bin:/bin/sync
+games:x:5:60:games:/usr/games:/usr/sbin/nologin
+man:x:6:12:man:/var/cache/man:/usr/sbin/nologin
+lp:x:7:7:lp:/var/spool/lpd:/usr/sbin/nologin
+mail:x:8:8:mail:/var/mail:/usr/sbin/nologin
+news:x:9:9:news:/var/spool/news:/usr/sbin/nologin
+uucp:x:10:10:uucp:/var/spool/uucp:/usr/sbin/nologin
+proxy:x:13:13:proxy:/bin:/usr/sbin/nologin
+www-data:x:33:33:www-data:/var/www:/usr/sbin/nologin
+backup:x:34:34:backup:/var/backups:/usr/sbin/nologin
+list:x:38:38:Mailing List Manager:/var/list:/usr/sbin/nologin
+irc:x:39:39:ircd:/var/run/ircd:/usr/sbin/nologin
+gnats:x:41:41:Gnats Bug-Reporting System (admin):/var/lib/gnats:/usr/sbin/nologin
+nobody:x:65534:65534:nobody:/nonexistent:/usr/sbin/nologin
+Debian-exim:x:101:103::/var/spool/exim4:/bin/false
+statd:x:102:65534::/var/lib/nfs:/bin/false
+supervisor:x:1000:1000:supervisor,,,:/home/supervisor:/bin/bash
+sshd:x:103:65534::/var/run/sshd:/usr/sbin/nologin
+proftpd:x:104:65534::/run/proftpd:/bin/false
+ftp:x:105:65534::/home/ftp:/bin/false
+webmasterie:x:1001:1001:responsavel pela atualizacao da home page do IE:/var/www/vhosts/www.ie/www3:/bin/sh
+mysql:x:106:107:MySQL Server,,,:/var/lib/mysql:/bin/false
+adonis:x:1002:1002::/home/adonis:/bin/sh
+uuidd:x:100:101::/run/uuidd:/bin/false
+systemd-timesync:x:107:111:systemd Time Synchronization,,,:/run/systemd:/bin/false
+systemd-network:x:108:112:systemd Network Management,,,:/run/systemd/netif:/bin/false
+systemd-resolve:x:109:113:systemd Resolver,,,:/run/systemd/resolve:/bin/false
+systemd-bus-proxy:x:110:114:systemd Bus Proxy,,,:/run/systemd:/bin/false
+messagebus:x:111:115::/var/run/dbus:/bin/false
+jvictor.ack:x:1003:1003::/home/jvictor.ack:/bin/sh
+webmasterecex:x:1004:1004:Responsavel pela atualizacao da pagina do ECEX:/var/www/vhosts/www.ie/www3/ecex_a:/bin/sh
+
+
+$_SG['servidor'] = 'localhost';    // Servidor MySQL
+$_SG['usuario'] = 'ieusr';          // Usuário MySQL
+$_SG['senha'] = '2010.sql.usr';                // Senha MySQL
+$_SG['banco'] = 'SiteEco';            // Banco de dados MySQL
+
+
+	http://www.ie.ufrj.br/ecex/
++-----------------------+-------------------------+
+| strLogin              | strSenha                |
++-----------------------+-------------------------+
+| admin                 | ecex@11                 |
++-----------------------+-------------------------+
+
+
+    var $dbtype = 'mysql';
+    var $host = 'localhost';
+    var $user = 'newieusr';
+    var $password = '2o1o.new.site.eco';
+    var $db = 'joomla15ie';
+    var $dbprefix = 'jos_';
+    var $mailfrom = 'webmaster@ie.ufrj.br';
+    var $fromname = 'Instituto de Economia';
+    var $sendmail = '/usr/sbin/sendmail';
+    var $smtpport = '465';
+    var $smtpuser = 'webmaster@ie.ufrj.br';
+    var $smtppass = 'mailwebmaster';
+    var $smtphost = 'smtp.gmail.com';
+    var $session_handler = 'database';
+
+
+ADILSON|68668949|USR|adilson@ie.ufrj.br|CAS|09/09/2003 - 10:52
+ADONIS|78296459|ADM|adonis@ie.ufrj.br|CAS|09/09/2003 - 10:52
+ANA|75088984|USR|ana@ie.ufrj.br|CAS|09/09/2003 - 10:52
+ANNALUCIA|36903610|USR|annalucia@ie.ufrj.br|CAS|09/09/2003 - 10:52
+APOIOREDESIST|71623920|USR|apoioredesist@ie.ufrj.br|CAS|03/10/2003 - 14:55
+ARY|ARY123|USR|ary@ie.ufrj.br|CAS|03/10/2003 - 14:55
+BETH|42915948|USR|beth@ie.ufrj.br|CAS|09/09/2003 - 10:52
+BICALHO|78574072|USR|bicalho@ie.ufrj.br|CAS|09/09/2003 - 10:52
+CAROLINA|16461708|USR|diascarolina@ie.ufrj.br|CAS|09/09/2003 - 10:55
+CARVALHO|90126588|USR|carvalho@ie.ufrj.br|CAS|09/09/2003 - 10:52
+CASSIO|16933692|USR|cassio@ie.ufrj.br|CAS|09/09/2003 - 10:52
+CHALFUN|94836993|USR|chalfun@ie.ufrj.br|CAS|09/09/2003 - 10:52
+DAISY|56326269|USR|daisy@ie.ufrj.br|CAS|09/09/2003 - 10:52
+DARCI|62783507|USR|darci@ie.ufrj.br|CAS|09/09/2003 - 10:52
+DEBORAH|94979399|USR|deborah@ie.ufrj.br|CAS|09/09/2003 - 10:52
+DELORME|72848224|USR|delorme@ie.ufrj.br|CAS|09/09/2003 - 10:52
+DERENGOW|39907866|USR|derengow@ie.ufrj.br|CAS|09/09/2003 - 10:52
+ECEX|4449871|USR|ecex@ie.ufrj.br|CAS|13/10/2004 - 13:44
+EDINIZ|24211113|USR|ediniz@ie.ufrj.br|CAS|09/09/2003 - 10:52
+EDREI|17930029|USR|edrei@ie.ufrj.br|CAS|09/09/2003 - 10:52
+EDMAR|49397831|USR|edmar@ie.ufrj.br|CAS|09/09/2003 - 10:52
+FABIO|86566500|USR|fabio@ie.ufrj.br|CAS|09/09/2003 - 10:52
+FACANHA|70574630|USR|facanha@ie.ufrj.br|CAS|09/09/2003 - 10:52
+FEPSOUZA|89820901|USR|fepsouza@ie.ufrj.br|CAS|09/09/2003 - 10:52
+FIANI|56715045|USR|fiani@ie.ufrj.br|CAS|09/09/2003 - 10:52
+FRANKLIN|96467949|USR|franklin@ie.ufrj.br|CAS|09/09/2003 - 10:52
+FRED|84362347|USR|fred@ie.ufrj.br|CAS|09/09/2003 - 10:52
+GALENO|39523763|USR|galeno@ie.ufrj.br|CAS|09/09/2003 - 10:52
+GETULIO|15922115|USR|getulio@ie.ufrj.br|CAS|09/09/2003 - 10:52
+GILBRAN|97643690|ADM|gilbran@ie.ufrj.br|CAS|09/09/2003 - 10:52
+GUILHERME|12345678|USR|guilherme@ie.ufrj.br|CAS|09/09/2003 -10:52
+HLASTRES|76500679|USR|hlastres@ie.ufrj.br|CAS|09/09/2003 - 10:52
+HELDER|74591065|USR|helder@ie.ufrj.br|CAS|09/09/2003 - 10:52
+HUGO|11347204|USR|hugo@ie.ufrj.br|CAS|09/09/2003 - 10:52
+JCHAMI|11016588|USR|jchami@ie.ufrj.br|CAS|09/09/2003 - 10:52
+JLFIORI|49680050|USR|jlfiori@ie.ufrj.br|CAS|09/09/2003 - 10:52
+JMIRANDA|38250814|USR|jmiranda@ie.ufrj.br|CAS|09/09/2003 - 10:52
+JAQUES|79590660|USR|jaques@ie.ufrj.br|CAS|09/09/2003 - 10:52
+JENNIFER|75777916|USR|jennifer@ie.ufrj.br|CAS|09/09/2003 - 10:52
+JOSEANE|75108430|USR|joseane@ie.ufrj.br|CAS|09/09/2003 - 10:52
+KUPFER|23214396|USR|kupfer@ie.ufrj.br|CAS|09/09/2003 - 10:52
+LEONARDA|31434700|USR|leonarda@ie.ufrj.br|CAS|09/09/2003 - 10:52
+LEOPARDI|45495116|USR|leopardi@ie.ufrj.br|CAS|09/09/2003 - 10:52
+LETICIA|87641597|USR|leticia@ie.ufrj.br|CAS|09/09/2003 - 10:52
+LIA|26414099|USR|lia@ie.ufrj.br|CAS|09/09/2003 - 10:52
+LICHA|18343340|USR|licha@ie.ufrj.br|CAS|09/09/2003 - 10:52
+LUCIA|40625212|USR|lucia@ie.ufrj.br|CAS|09/09/2003 - 10:52
+LUIZ|26273370|USR|luiz@ie.ufrj.br|CAS|09/09/2003 - 10:52
+LUIZMELO|66947295|USR|luizmelo@ie.ufrj.br|CAS|09/09/2003 - 10:52
+MARILIZA|67125390|USR|mariliza@ie.ufrj.br|CAS|04/12/2003 - 12:20
+MBRASIL|13493308|USR|mbrasil@ie.ufrj.br|CAS|09/09/2003 - 10:52
+MPAIXAO|16094272|USR|mpaixao@ie.ufrj.br|CAS|09/09/2003 - 10:52
+MRESENDE|53513796|USR|mresende@ie.ufrj.br|CAS|09/09/2003 - 10:52
+MARGARIDA|62809317|USR|margarida@ie.ufrj.br|CAS|09/09/2003 - 10:52
+MARILIZA|67125390|USR|mariliza@ie.ufrj.br|CAS|04/12/2003 - 12:20
+MARILU|49981746|USR|marilu@ie.ufrj.br|CAS|09/09/2003 - 10:52
+MAX|2330|USR|max@ie.ufrj.br|CAS|03/10/2003 - 14:54
+MEDEIROS|92333081|USR|medeiros@ie.ufrj.br|CAS|09/09/2003 - 10:52
+PTIGRE|68833761|USR|ptigre@ie.ufrj.br|CAS|09/09/2003 - 10:52
+PETERLI|30494927|USR|peterli@ie.ufrj.br|CAS|09/09/2003 - 10:52
+PONDE|57421181|USR|ponde@ie.ufrj.br|CAS|09/09/2003 - 10:52
+POSSAS|69850349|USR|possas@ie.ufrj.br|CAS|09/09/2003 - 10:52
+RGARCIGA|70174977|USR|rgarciga@ie.ufrj.br|CAS|09/09/2003 - 10:52
+REINALDO|85671996|USR|reinaldo@ie.ufrj.br|CAS|09/09/2003 - 10:52
+RENATA|49441010|USR|renata@ie.ufrj.br|CAS|09/09/2003 - 10:52
+RONEI|14049399|USR|ronei@ie.ufrj.br|CAS|09/09/2003 - 10:52
+SPOSSAS|24549440|USR|spossas@ie.ufrj.br|CAS|09/09/2003 - 10:52
+SAEARP|28664503|USR|saearp@ie.ufrj.br|CAS|09/09/2003 - 10:52
+SABOIA|27263795|USR|saboia@ie.ufrj.br|CAS|09/09/2003 - 10:52
+SECRTS|infosecrts|USR|(secrts@ie.ufrj.br|CAS|09/09/2003 - 10:52
+SIDENIR|45984141|USR|sidenir@ie.ufrj.br|CAS|09/09/2003 - 10:52
+THELMA|32454856|USR|thelma@ie.ufrj.br|CAS|09/09/2003 - 10:52
+VPERO|93023452|USR|vpero@ie.ufrj.br|CAS|09/09/2003 - 10:52
+VALERIAVINHA|89402152|USR|valeriavinha@ie.ufrj.br|CAS|09/09/2003 - 10:52
+VICTOR|96516761|USR|victor@ie.ufrj.br|CAS|09/09/2003 - 10:52
+YOUNG|94870604|USR|young@ie.ufrj.br|CAS|09/09/2003 - 10:52
+JBOSCO|70584700|USR|jbosco@ie.ufrj.br|CAS|09/09/2003 - 10:52

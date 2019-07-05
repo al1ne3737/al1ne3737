@@ -1,0 +1,47 @@
++-------------------------+-----------------+------------+--------+
+| email                   | login           | senha      | status |
++-------------------------+-----------------+------------+--------+
+| jose@asacom.com.br      | jose            | zeca       | A      |
+| fernando@asacom.com.br  | fernando        | fefeu      | A      |
+| cpdvestibular@pucsp.br  | paulo           | 131195     | A      |
+| mguerreiro@pucsp.br     | manir           | ma         | A      |
+| acas@pucsp.br           | acas            | acasantos  | A      |
+| daniel@pucsp.br         | daniel          | danielgatt | A      |
+| dtacahashi@pucsp.br     | dtacahashi      | dtacahashi | A      |
+| ealfeld@pucsp.br        | ealfeld         | erodrigues | A      |
+| fabrizio@pucsp.br       | fabrizio        | faleonardi | A      |
+| fmorgado@pucsp.br       | fmorgado        | fmorgado   | A      |
+| fonopuc@pucsp.br        | fonopuc         | fonopuc    | A      |
+| geraldogianini@pucsp.br | geraldogianini  | ggianini   | A      |
+| jbarcellos@pucsp.br     | jbarcellos      | jbarcelos  | A      |
+| lbeloque@pucsp.br       | lbeloque        | lbeloque   | A      |
+| lopes@pucsp.br          | lopes           | antoniolop | A      |
+| marilenazanon@pucsp.br  | marilenazanon   | marizanon  | A      |
+| matakas@pucsp.br        | matakas         | ematakas   | A      |
+| mcliquet@pucsp.br       | mcliquet        | marcliquet | A      |
+| mgasbarro@pucsp.br      | mgasbarro       | mgasbarro  | A      |
+| mmatias@pucsp.br        | mmatias         | marmatias  | A      |
+| monicacarvalho@pucsp.br | monicacarvalho  | mcarvalho  | A      |
+| mromero@pucsp.br        | mromero         | mariromero | A      |
+| mssg@pucsp.br           | mssg            | msgraciani | A      |
+| myrthania@pucsp.br      | myrthania       | myrthania  | A      |
+| naiaraciotti@pucsp.br   | naiaraciotti    | nairaciott | A      |
+| ppenha@pucsp.br         | ppenha          | patpenha   | A      |
+| rachelbal@pucsp.br      | rachelbal       | balsalobre | A      |
+| regnasser@pucsp.br      | regnasser       | regnasser  | A      |
+| rmoliveira@pucsp.br     | rmoliveira      | rmoliveira | A      |
+| rogerio@pucsp.br        | rogerio         | rcardoso   | A      |
+| sergiobasbaum@pucsp.br  | sergiobasbaum   | sbasbaum   | A      |
+| silvanarabello@pucsp.br | silvanarabello  | silrabello | A      |
+| socoelho@pucsp.br       | socoelho        | socoelho   | A      |
+| soniacamp@pucsp.br      | soniacamp       | socampaner | A      |
+| symiyazaki@pucsp.br     | symiyazaki      | symiyazaki | A      |
+| vestibular1@pucsp.br    | vestibular1     | direito    | A      |
+| vestibular2@pucsp.br    | vestibular2     | letraspuc  | A      |
+| vpalazetti@pucsp.br     | vpalazetti      | vpalazetti | A      |
+| vfambrini@pucsp.br      | Valeria         | valeriaf   | A      |
+| ecaramella@pucsp.br     | vestibularpucsp | ecaramella | A      |
+| cbiologicas@pucsp.br    | vestibularpucsp | cbiologica | A      |
+| rosana@pucsp.br         | vestibularpucsp | francisco  | A      |
+| energia@pucsp.br        | vestibularpucsp | energia    | A      |
++-------------------------+-----------------+------------+--------+

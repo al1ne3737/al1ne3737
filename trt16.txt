@@ -1,0 +1,53 @@
+Isso e uma senha DES(Unix), Traditional DES, voces podem fazer brute force para quebra-la
+
++-------------------+---------------------------------------------------+---------------+---------------+
+| NICK              | NMUSUARIO                                         | PASS          | PASS_CRIPT    |
++-------------------+---------------------------------------------------+---------------+---------------+
+| administ          | Diretoria de Orçamento e Finanças                 | ADSSeHGOGJH.M | ADSSeHGOGJH.M |
+| alda.fonseca      | Maickel Roberto Neitzke                           | ADkmNln5L0/R2 | ADkmNln5L0/R2 |
+| amaral            | Rafael R. Neto                                    | AD6RfvQ9cxiyg | AD6RfvQ9cxiyg |
+| anacelia          | Letícia                                           | ADWrEHbwB53qk | ADWrEHbwB53qk |
+| angela.craveiro   | corregedoria                                      | ADrheOxj8uE4A | ADhQEUJ5lEhuU |
+| ary.sa            | Cícero Matias Ferreira                            | ADWmN8mSZ4SOE | ADWmN8mSZ4SOE |
+| ascom             | Serviço de Recursos, Jurisprudência e Estatística | ADrbyq2bpIItQ | ADrbyq2bpIItQ |
+| asspresid         | José Vicente A. dos Santos                        | AD6QKCnK1aIk. | AD6QKCnK1aIk. |
+| cassio            | Secretaria da Corregedoria                        | ADu9IQrCEgS8o | ADu9IQrCEgS8o |
+| chagas            | Assessoria da Diretoria Geral                     | ADu9IQrCEgS8o | ADu9IQrCEgS8o |
+| cicero.matias     | Gabinete da Vice Presidência                      | ADu9IQrCEgS8o | ADu9IQrCEgS8o |
+| ciro.cardoso      | Secretaria Administrativa                         | ADfmm39IuFIeM | ADfmm39IuFIeM |
+| correge           | Gabinete da Presidência                           | ADu9IQrCEgS8o | ADu9IQrCEgS8o |
+| corregedoria      | Serviço de Controle Interno                       | ADu9IQrCEgS8o | ADu9IQrCEgS8o |
+| cpl               | Secretaria do Pleno                               | AD9Oo8luX4vqc | ADu9IQrCEgS8o |
+| cynthia.carvalho  | Assessoria de Comunicação                         | ADF/MmCQjMFbc | ADYwhdqO2o91g |
+| danielle_pearce   | comissão permante de licitação                    | ADBrLAFerpWBQ | ADBrLAFerpWBQ |
+| dgeral            | Francisco Antônio Ribeiro Amaral                  | ADg30cyA5OgE. | ADg30cyA5OgE. |
+| dof               | Diretoria de Pessoal                              | ADplbwe91yE0k | ADplbwe91yE0k |
+| dpessoal          | Rogério Ferreira Rodrigues                        | ADrbyq2bpIItQ | ADrbyq2bpIItQ |
+| elaine.pacheco    | Ana Célia Ferreira Mendes                         | ADQDmtLRvwWoQ | ADQDmtLRvwWoQ |
+| fernanda.marques  | Elaine Moraes Pachêco Rosa                        | ADCVhJ1PMXspI | ADCVhJ1PMXspI |
+| fernanda.santos   | Diretoria de Folha de Pagamento                   | AD0G7zn8qFsC6 | AD0G7zn8qFsC6 |
+| folhapag          | Cássio Murilo Moreira Sosua                       | ADCd3MXR.IusQ | ADCd3MXR.IusQ |
+| gabvice           | Lídia Lima                                        | AD5SXkYpvKL3E | ADeQuwOADRNdM |
+| gantzias          | Danielle Veras Pearce                             | ADxM1CkVdTkwc | ADxM1CkVdTkwc |
+| jacer.ribeiro     | Cynthia Dantas de Carvalho                        | ADKu.XQeFeFsg | ADKu.XQeFeFsg |
+| jairo.vieira      | MARIA DO CARMO DA SILVA MATOS                     | ADeVlIwtbRnPU |               |
+| jvicente          | FERNANDA CRISTINA MUNIZ MARQUES                   | AD/5jVXAyEMHo |               |
+| leticia           | Ângela de Carvalho Craveiro                       | AD9YYZX/doNBE |               |
+| lidia.serpa       | Helena Gantzias                                   | AD6HJ1HUNrnvg | ADkmNln5L0/R2 |
+| lidialima         | José de Ribamar de Sousa Chagas Junior            | ADBCMzq.VxnlI | ADkmNln5L0/R2 |
+| luiz.matos        | Jairo Campelo Vieira                              | ADkOFN3AnnoTY |               |
+| maickel           | Rosinalva Vasconcelos Coêlho                      | ADdxM2tWuLGeI |               |
+| marcelo.alencar   | Ary Arruda                                        | AD3jkLsjZ2LvI |               |
+| marcos.silva      | Alda Augusta Jucá Fonseca                         | ADLt2ugtjZbRk |               |
+| mcarmo            | Ronald Silva Serrão                               | ADlQXj7eIjo9Y |               |
+| pedrocoimbra      | Pedro Eduardo Pinho Coimbra                       | ADi0qsDcBuNlY |              |
+| rafael            | Luis Sadoque de Lima Matos                        | ADBTQJPKNL7w2 |               |
+| ricardo           | Lídia Serpa Barbosa                               | ADVPJCW8MUNVM |               |
+| rogerio.rodrigues | Ciro Ibiapina Cardoso                             | ADBvg1u6zTuxo |               |
+| ronald.serrao     | Fernanda Ferreira dos Santos - 308161636          | AD/U2yoloeIkM |               |
+| rvcoelho          | Marcos Antônio de Souza Silva                     | AD7uu8DSo/Qfw |               |
+| sci               | MANOEL RICARDO BECKMAN DE JESUS                   | ADX4zmz11/njs |               |
+| secpleno          | MARCELO HENRIQUE BANDEIRA COSTA DE ALENCAR        | ADe7E9KFE2/HE |               |
+| sergiomoriah      | SÉRGIO MORIAH DE ABREU SILVA                      | ADhuksyJIvnko |               |
+| srje              | JACER DE ABREU RIBEIRO NETO                       | ADunR/lndu7qU |               |
++-------------------+---------------------------------------------------+---------------+---------------+
