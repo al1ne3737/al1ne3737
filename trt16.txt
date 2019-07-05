@@ -1,3 +1,4 @@
+postado em 05/07/2019
 isu é una senha DES(Unix), Traditional DES, pody cê kebradah cum brute force.
 
 +-------------------+---------------------------------------------------+---------------+---------------+
